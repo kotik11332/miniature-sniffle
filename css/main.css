@@ -387,11 +387,14 @@ html, body{
     background-color: #5C62EC;
     color: #fff;
     cursor: pointer;
+    
   }
   
   button[type="submit"]:hover {
     background-color: #4850d4;
+
   }
+  
 
 
 
