@@ -1,16 +1,5 @@
 @import "./reset.css";
 
-
-@font-face {
-    font-family: "Cygre";
-    font-style: bold;
-    font-weight: 700;
-    
-    src: url("../fonts/Cygre-Bold.ttf");
-        
-  }
-
-
   @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
 
 
