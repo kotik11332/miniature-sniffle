@@ -91,17 +91,15 @@ body {
 
 .header {
 	padding: 40px 0;
-	min-height: 695px;
+	min-height: 100dvh;
 
 	background-color: #171718;
-	background-image: url('./../img/deer-bg.jpg');
+	background-image: url('./../img/cat_bg.jpg');
 	background-repeat: no-repeat;
 	background-size: 2000px;
 	background-position: center;
 	display: flex;
-	justify-content: center;
-	align-items: center;
-	color: #fff;
+	color: #033e5c;
 	text-align: center;
 }
 
